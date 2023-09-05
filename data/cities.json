@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "El Hakimia",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-08-17T17:57:39.679Z",
+      "notes": "Hello Sir",
+      "position": {
+        "lat": "36.06016829991694",
+        "lng": "3.8214112445712094"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Salon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-17T18:51:32.509Z",
+      "notes": "Salon is a good place.",
+      "position": {
+        "lat": "26.079758130872488",
+        "lng": "81.49236168469176"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bhopalgarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-18T09:20:33.028Z",
+      "notes": "Great Placce",
+      "position": {
+        "lat": "26.775039386999605",
+        "lng": "73.60839843750001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Hisar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-18T10:29:59.433Z",
+      "notes": "Good",
+      "position": {
+        "lat": "29.209713225868185",
+        "lng": "75.67382812500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Sahawar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-18T12:02:20.845Z",
+      "notes": "",
+      "position": {
+        "lat": "27.72243591897343",
+        "lng": "78.81591796875001"
+      },
+      "id": 98443203
+    }
+  ]
+}
